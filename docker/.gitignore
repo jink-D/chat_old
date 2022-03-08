@@ -1,0 +1,5 @@
+/.vscode
+/logs
+/mysql/data
+/.env
+/.editorconfig
